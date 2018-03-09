@@ -3,4 +3,5 @@ Conversion function needed:
 -Dollar to cents
 -Gallon to liters
 -Hours to minutes
--Feet to inches  
+-Feet to inches
+-Degrees to radiants   
