@@ -5,3 +5,4 @@ Conversion function needed:
 -Hours to minutes
 -Feet to inches
 -Degrees to radiants   
+-Celsius to Farhenight 
