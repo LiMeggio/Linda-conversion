@@ -1,5 +1,6 @@
 Conversion function needed: 
 
-- dollar to cents
+-Dollar to cents
 -Gallon to liters
--Hours to minutes 
+-Hours to minutes
+-Feet to inches  
